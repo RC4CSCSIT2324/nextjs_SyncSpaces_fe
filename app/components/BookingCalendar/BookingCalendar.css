@@ -1,0 +1,13 @@
+/* To override FullCalendar theme */
+
+.fc-header-toolbar {
+    margin-bottom: 0.875rem !important;
+}
+
+.fc-toolbar-title {
+    font-size: 1.25rem !important;
+}
+
+.fc-button {
+    font-size: 0.875rem !important;
+}
